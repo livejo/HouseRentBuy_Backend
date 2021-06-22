@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yosef\\Desktop\\dotnetcore\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\yosef\\Desktop\\Angular\\hspa2\\Backend\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yosef\\Desktop\\dotnetcore\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\yosef\\Desktop\\Angular\\hspa2\\Backend\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yosef\\Desktop\\dotnetcore\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\yosef\\Desktop\\Angular\\hspa2\\Backend\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\yosef\\Desktop\\dotnetcore\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\yosef\\Desktop\\Angular\\hspa2\\Backend\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\yosef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yosef\\Desktop\\dotnetcore\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\yosef\\Desktop\\Angular\\hspa2\\Backend\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

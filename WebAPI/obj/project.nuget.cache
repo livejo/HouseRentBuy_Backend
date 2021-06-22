@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wd3wCvWB0jAEr3j+THNWQrBkSSBcsMTYOVf4t1y+llEjTnWPHa4HDdK3n2XMn/wpTgMkT2xwSBK2ueLg5LgHng==",
+  "dgSpecHash": "aw8N0Yn/0uM+tWXOz2FGfVQDAcGLzrq69IBvXeOhuPloDBf+6Gndc7x83p8hCF3GzqnD7K5kAHRU2xW5kkgRww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yosef\\Desktop\\dotnetcore\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\yosef\\Desktop\\Angular\\hspa2\\Backend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yosef\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
